@@ -43,6 +43,8 @@
 /*--------------------------
       Global Styles
 ---------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
 html,
 body {
   overflow-x: hidden;
@@ -50,7 +52,7 @@ body {
 
 body {
   background-color: #ffffff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 15px;
   font-weight: 400;
   color: #9b9b9b;
@@ -177,7 +179,7 @@ select {
 }
 
 .font-secondary {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
 }
 
 .lh-1 {
@@ -1128,7 +1130,7 @@ h4,
 h5,
 h6 {
   color: #1b1a1a;
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   text-transform: capitalize;
   font-weight: 500;
   line-height: 1.1;
@@ -1176,6 +1178,7 @@ h6 {
 }
 
 .heading__title {
+  font-family: "Jost", sans-serif;
   font-size: 34px;
   margin-bottom: 18px;
 }
@@ -1358,7 +1361,7 @@ h6 {
 }
 
 .pagetitle__subheading {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 1;
@@ -3784,7 +3787,7 @@ textarea.form-control {
 }
 
 .accordion-item .accordion__item-title {
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   color: #222222;
   font-weight: 500;
   font-size: 16px;
@@ -4420,7 +4423,7 @@ textarea.form-control {
 
 .slider .slide__subtitle {
   display: block;
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 14px;
   line-height: 1;
   font-weight: 700;
@@ -4429,6 +4432,7 @@ textarea.form-control {
 }
 
 .slider .slide__title {
+  font-family: "Jost", sans-serif;
   font-size: 65px;
   font-weight: 500;
   color: #ffffff;
@@ -4815,7 +4819,7 @@ textarea.form-control {
 }
 
 .feature-item .feature__subtitle {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 14px;
   display: inline-block;
   margin-bottom: 6px;
@@ -5185,7 +5189,7 @@ textarea.form-control {
 
 .project-item .project__cat a {
   position: relative;
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 13px;
   color: #ff7607;
   padding-right: 7px;
@@ -5574,7 +5578,7 @@ textarea.form-control {
 .projects-slider .owl-thumbs .owl-thumb-item .thumb-item-wrap .thumb__num {
   font-size: 68px;
   line-height: 1;
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   margin-bottom: 14px;
 }
 
@@ -5865,7 +5869,7 @@ textarea.form-control {
 }
 
 .member .member__info .member__desc {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -5996,7 +6000,7 @@ textarea.form-control {
 }
 
 .testimonial-item .testimonial__desc {
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   color: #1b1a1a;
   font-size: 20px;
   line-height: 34px;
@@ -6011,7 +6015,7 @@ textarea.form-control {
 }
 
 .testimonial__meta .testimonial__meta-title {
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   text-transform: capitalize;
   font-size: 14px;
   font-weight: 700;
@@ -6021,7 +6025,7 @@ textarea.form-control {
 }
 
 .testimonial__meta .testimonial__meta-desc {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   line-height: 23px;
   font-weight: 400;
   font-size: 13px;
@@ -6464,7 +6468,7 @@ textarea.form-control {
 }
 
 .blog-nav .blog__nav-content span {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 13px;
   color: #616161;
   display: block;
@@ -6572,7 +6576,7 @@ textarea.form-control {
 }
 
 .comments-list .comment__item .comment__content .comment__date {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   color: #616161;
   font-size: 12px;
   line-height: 1;
@@ -6585,7 +6589,7 @@ textarea.form-control {
 }
 
 .comments-list .comment__item .comment__content .comment__reply {
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   text-transform: uppercase;
   font-size: 13px;
   font-weight: 700;
@@ -6740,7 +6744,7 @@ textarea.form-control {
 }
 
 .contact-panel-2 .accordion-item .accordion__item-title {
-  font-family: "Roboto", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 17px;
   font-weight: 700;
   line-height: 1;
@@ -6904,7 +6908,7 @@ textarea.form-control {
 }
 
 .pricing-item .pricing__price {
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 50px;
   color: #1b1a1a;
   font-weight: 400;
@@ -7026,7 +7030,7 @@ textarea.form-control {
 }
 
 .counter-item .counter__subtitle {
-  font-family: "Rubik", sans-serif;
+  font-family: "Jost", sans-serif;
   font-size: 14px;
   font-weight: bold;
   line-height: 1;
